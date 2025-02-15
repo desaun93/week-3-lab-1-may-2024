@@ -43,8 +43,8 @@ You will start with an HTML document that needs style. There are several ways to
 ## Roadmap
 
 - [x] Create index.html with paragraphs and other tags
-- [ ] Update the author in this README
-- [ ] Add CSS rules to each of the style attributes on the page
+- [x] Update the author in this README
+- [x] Add CSS rules to each of the style attributes on the page
 - [ ] Create an HTML list and add style rules for it
 - [ ] Style h1, h2, p, em and others with interal CSS
 - [ ] Style header, main and footer
@@ -55,7 +55,7 @@ You will start with an HTML document that needs style. There are several ways to
 
 ## Contact
 
-Author: robert.mccreary@codex.academy
+Author: latraildjones@yahoo.com
 
 ## Bonus and Extension
 
